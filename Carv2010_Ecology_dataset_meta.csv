@@ -1,0 +1,19 @@
+"Network data used in: Carvalheiro, LG; Buckley YM. & Memmott, J. 2010. Diet breadth determines how impacts of invasive plants are propagated through food webs. Ecology, 91, 1063-1074. DOI: 10.1890/08-2092.1"
+
+"Study sites: Eight 1600-m2 plots were selected in the Avon HeathCountry Park, Dorset, UK.
+"
+"Methods: In each study site, a total of seven surveys were carried out every 14–20 days from 27 June to 15 September 2005. In each survey, one transect (3x20 m) was haphazardly placed per plot. All larval leaf herbivores were collected by beating the plants onto a tray."
+
+"All larvae were individually reared until an adult herbivore or a parasitoid emerged or the individual died. For herbivore species found at high abundance (more than 20 specimens/m2), all individuals were counted but a subsample was collected for rearing. The total number of insects reared from these samples was then estimated by multiplying up. Data for all seven transects were pooled (rearing data) or averaged (plant abundance) for each plot as appropriate."
+
+Data tables:
+"1 - Plant cover: information on plot code, grid number (UK system), plant cover per plant species"
+Sum of plant cover may be over 100% because plants overalped
+
+2 - Plant_Herb: information on interaction frequency (number of individuals detected in the sampled area) between plant and herbivore species
+
+"When two species present in a plot had no detected interaction in that plot, we checked if  the plant was part of the diet of the herbivore species by looking at data from other plots. If the plant was part of the diet of a herbivore species it was marked as a potential/rare interaction (i.e. interaction was added to the network with a frequency of 0.01). Ab_total_herb is the sum of all individuals detected in the plot."
+
+3 - Herb-par: information on interaction frequency (number of individuals reared from the herbivores collected in the sampled area) between herbivores and parasitoid species
+
+"When two species present in a plot had no detected interaction in that plot, we checked if  the herbivore was part of the diet of the parasitoid species by looking at data from other plots. If the plant was part of the diet of a herbivore species it was marked as a potential/rare interaction (i.e. interaction was added to the network with a frequency of 0.01). Ab_total_par is the sum of all parasitoid individuals detected in the plot."
